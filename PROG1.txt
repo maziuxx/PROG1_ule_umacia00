@@ -17,3 +17,13 @@ niño - https://dle.rae.es/niño1. orfebrería - https://dle.rae.es/orfebrería
 8. acreción - https://dle.rae.es/acreción
 9. mamparo - https://dle.rae.es/mamparo
 10. palmera - https://dle.rae.es/palmera
+1. lámpara - https://dle.rae.es/lámpara
+2. cañería - https://dle.rae.es/cañería
+3. montaña - https://dle.rae.es/montaña
+4. ventana - https://dle.rae.es/ventana
+5. ordenador - https://dle.rae.es/ordenador
+6. bicicleta - https://dle.rae.es/bicicleta
+7. océano - https://dle.rae.es/océano
+8. estrella - https://dle.rae.es/estrella
+9. camino - https://dle.rae.es/camino
+10. guitarra - https://dle.rae.es/guitarra
