@@ -1,0 +1,10 @@
+casa - https://dle.rae.es/casa
+perro - https://dle.rae.es/perro
+mesa - https://dle.rae.es/mesa
+libro - https://dle.rae.es/libro
+agua - https://dle.rae.es/agua
+árbol - https://dle.rae.es/árbol
+sol - https://dle.rae.es/sol
+pan - https://dle.rae.es/pan
+coche - https://dle.rae.es/coche
+niño - https://dle.rae.es/niño
